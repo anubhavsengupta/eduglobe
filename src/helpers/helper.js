@@ -12,3 +12,4 @@ const cohere = new CohereClient({
     
     console.log("Received prediction", prediction);
 })();
+
